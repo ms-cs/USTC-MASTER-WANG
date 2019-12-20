@@ -1,6 +1,6 @@
 Motion Guided Attention for Video Salient Object Detection
 ---------
-<br> Haofeng Li(The University of Hong Kong)
+<br> by Haofeng Li(The University of Hong Kong)
 <br> Guanqi Chen,Guanbin Li(Sun Yat-sen University)
 <br> Yizhou Yu( Deepwise AI Lab)
 <br><br>ICCV 2019
