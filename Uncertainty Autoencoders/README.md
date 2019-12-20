@@ -1,5 +1,6 @@
 Uncertainty Autoencoders: Learning Compressed Representations via Variational Information Maximization
-by  Aditya Grover (Stanford University)     Stefano Ermon (Stanford University)
+--------
+<br>by  Aditya Grover (Stanford University)     Stefano Ermon (Stanford University)<br>
 AISTATS 2019
 Abstract : Compressed sensing techniques enable eﬃ-cient acquisition and recovery of sparse, high-dimensional data signals via low-dimensional projections. 
           In this work, we propose Un-certainty Autoencoders, a learning framework for unsupervised representation learning in-spired by compressed sensing. We treat 
