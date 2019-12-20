@@ -1,0 +1,7 @@
+Motion Guided Attention for Video Salient Object Detection
+---------
+<br> Haofeng Li(The University of Hong Kong)
+<br> Guanqi Chen,Guanbin Li(Sun Yat-sen University)
+<br> Yizhou Yu( Deepwise AI Lab)
+<br><br>ICCV 2019
+<br>`Abstract`:Video salient object detection aims at discovering the most visually distinctive objects in a video. How to effec-tively take object motion into consideration during video salient object detection is a critical issue. Existing state-of-the-art methods either do not explicitly model and har-vest motion cues or ignore spatial contexts within optical ﬂow images. In this paper, we develop a multi-task motion guided video salient object detection network, which learns to accomplish two sub-tasks using two sub-networks, one sub-network for salient object detection in still images and the other for motion saliency detection in optical ﬂow im-ages. We further introduce a series of novel motion guided attention modules, which utilize the motion saliency sub-network to attend and enhance the sub-network for still im-ages. These two sub-networks learn to adapt to each other by end-to-end training. Experimental results demonstrate that the proposed method signiﬁcantly outperforms existing state-of-the-art algorithms on a wide range of benchmarks. We hope our simple and effective approach will serve as a solid baseline and help ease future research in video salient object detection. Code and models will be made available.
