@@ -1,0 +1,5 @@
+YOLO v4
+========
+<br> Alexey Bochkovskiy, Chien-Yao Wang, Hong-Yuan Mark Liao <br>
+23 Apr 2020 <br>
+Abstract : There are a huge number of features which are said to improve Convolutional Neural Network (CNN) accuracy. Practical testing of combinations of such features on large datasets, and theoretical justification of the result, is re-quired. Some features operate on certain models exclusively and for certain problems exclusively, or only for small-scale datasets; while some features, such as batch-normalization and residual-connections, are applicable to the majority of models, tasks, and datasets. We assume that such universal features include Weighted-Residual-Connections (WRC), Cross-Stage-Partial-connections (CSP), Cross mini-Batch Normalization (CmBN), Self-adversarial-training (SAT) and Mish-activation. We use new features: WRC, CSP, CmBN, SAT, Mish activation, Mosaic data augmentation, CmBN, DropBlock regularization, and CIoU loss, and com-bine some of them to achieve state-of-the-art results: 43.5%AP (65.7% AP50) for the MS COCO dataset at a real-time speed of ∼65 FPS on Tesla V100. Source code is at https://github.com/AlexeyAB/darknet.
